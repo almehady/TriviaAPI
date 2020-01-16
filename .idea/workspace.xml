@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74777277-924e-4b3d-9d00-15726ede3006" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/backend/flaskr/__init__.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1VqgsCcEcqAfFRC4ZJBPNbhyP9D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74777277-924e-4b3d-9d00-15726ede3006" name="Default Changelist" comment="" />
+      <created>1577986244061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577986244061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577991665621">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="458" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1577991665621" />
+    <state x="461" y="282" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578557804021">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="461" y="282" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.831@0.23.1440.831" timestamp="1578557804021" />
+    <state x="507" y="200" key="FileChooserDialogImpl" timestamp="1578727430133">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="507" y="200" key="FileChooserDialogImpl/0.23.1440.831@0.23.1440.831" timestamp="1578727430133" />
+    <state x="190" y="131" key="SettingsEditor" timestamp="1578727482351">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="190" y="131" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1578727482351" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1579164385307">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1579164385307" />
+  </component>
+</project>
