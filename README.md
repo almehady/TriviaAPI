@@ -10,6 +10,16 @@ Tasks Completed:
 3. Complete full documentation of the API and post on the repo's README.
 4. Deploy REACT front-end and test the web application works as expected.
 
+## How to run the App:
+### Backend
+1. Install virtual env and activate
+2. Install requirements.txt file
+3. Run flask server
+
+### Frontend
+1. Install yarn
+2. yarn run start
+
 API Documentation:
 ```
 Endpoints
